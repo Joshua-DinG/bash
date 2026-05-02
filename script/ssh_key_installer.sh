@@ -11,7 +11,7 @@
 # ==============================================================================
 
 # 配置变量
-PUBKEY_URL="https://cdn.jsdelivr.net/gh/Jianfei-DinG/bash/script/id_rsa.pub"
+PUBKEY_URL="https://cdn.jsdmirror.com/gh/Jianfei-DinG/bash/script/id_rsa.pub"
 SSH_DIR=""
 AUTH_KEYS=""
 SSHD_CONFIG="/etc/ssh/sshd_config"
